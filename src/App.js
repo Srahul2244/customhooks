@@ -1,5 +1,4 @@
 import React from "react";
-// this  is index.js
 import useFetch from "./hooks/useFetch";
 
 function App() {
